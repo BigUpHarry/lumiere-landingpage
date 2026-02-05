@@ -90,7 +90,7 @@ export default function ContactPage() {
             transition={{ duration: 0.8, delay: 0.4, ease: [0.22, 1, 0.36, 1] }}
             className="text-sm text-muted-foreground text-center"
           >
-            When reaching out, including your hotel name and website is helpful.
+            When reaching out, include your Property's/hotel name or address and website.
           </motion.p>
         </div>
       </section>
