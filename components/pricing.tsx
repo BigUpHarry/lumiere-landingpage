@@ -9,7 +9,7 @@ export function Pricing() {
     {
       name: "Teaser",
       price: "$1,000",
-      duration: "15–30 seconds",
+      duration: "30 seconds",
       description: "Ideal for social media and quick property overviews.",
       features: [
         "Cinematic transitions",
@@ -21,7 +21,7 @@ export function Pricing() {
     },
     {
       name: "Hero Video",
-      price: "$2,000",
+      price: "$1,900",
       duration: "~60 seconds",
       description: "Complete property showcase for your website and OTAs.",
       features: [
