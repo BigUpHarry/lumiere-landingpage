@@ -9,7 +9,7 @@ export function Footer() {
             </a>
             <span className="hidden md:block text-border">|</span>
             <p className="text-sm text-muted-foreground">
-              Cinematic hotel videos from your existing photography
+              Cinematic videos for your space, created from your photos
             </p>
           </div>
 
