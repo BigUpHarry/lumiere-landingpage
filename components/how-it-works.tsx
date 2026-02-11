@@ -6,7 +6,7 @@ export function HowItWorks() {
   const steps = [
     {
       number: "01",
-      title: "Send 10–20 photos",
+      title: "Send 10–20+ photos",
       description:
         "Share your existing hotel photography. High-resolution images work best.",
     },
